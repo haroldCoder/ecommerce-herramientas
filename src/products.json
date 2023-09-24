@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dune",
+    "description": "A science fiction novel written by Frank Herbert",
+    "imgURI": "https://example.com/dune.jpg",
+    "author": "Frank Herbert",
+    "price": 19.99,
+    "category": "Science Fiction",
+    "buys": 235,
+    "created_at": "2020-05-12",
+    "key_stripe": "example_key_1"
+  },
+  {
+    "id": 2,
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "description": "A comedic science fiction series written by Douglas Adams",
+    "imgURI": "https://example.com/hitchhikers.jpg",
+    "author": "Douglas Adams",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "buys": 178,
+    "created_at": "2020-02-28",
+    "key_stripe": "example_key_2"
+  },
+  {
+    "id": 3,
+    "name": "Neuromancer",
+    "description": "A cyberpunk novel written by William Gibson",
+    "imgURI": "https://example.com/neuromancer.jpg",
+    "author": "William Gibson",
+    "price": 12.99,
+    "category": "Science Fiction",
+    "buys": 96,
+    "created_at": "2020-09-17",
+    "key_stripe": "example_key_3"
+  },
+  {
+    "id": 4,
+    "name": "Ender's Game",
+    "description": "A military science fiction novel written by Orson Scott Card",
+    "imgURI": "https://example.com/endersgame.jpg",
+    "author": "Orson Scott Card",
+    "price": 9.99,
+    "category": "Science Fiction",
+    "buys": 112,
+    "created_at": "2020-07-03",
+    "key_stripe": "example_key_4"
+  },
+  {
+    "id": 5,
+    "name": "Brave New World",
+    "description": "A dystopian novel written by Aldous Huxley",
+    "imgURI": "https://example.com/bravenewworld.jpg",
+    "author": "Aldous Huxley",
+    "price": 11.99,
+    "category": "Science Fiction",
+    "buys": 78,
+    "created_at": "2020-11-21",
+    "key_stripe": "example_key_5"
+  },
+  {
+    "id": 6,
+    "name": "1984",
+    "description": "A dystopian novel written by George Orwell",
+    "imgURI": "https://example.com/1984.jpg",
+    "author": "George Orwell",
+    "price": 10.99,
+    "category": "Science Fiction",
+    "buys": 134,
+    "created_at": "2020-04-09",
+    "key_stripe": "example_key_6"
+  },
+  {
+    "id": 7,
+    "name": "Foundation",
+    "description": "A science fiction novel written by Isaac Asimov",
+    "imgURI": "https://example.com/foundation.jpg",
+    "author": "Isaac Asimov",
+    "price": 13.99,
+    "category": "Science Fiction",
+    "buys": 203,
+    "created_at": "2020-08-10",
+    "key_stripe": "example_key_7"
+  },
+  {
+    "id": 8,
+    "name": "Snow Crash",
+    "description": "A cyberpunk novel written by Neal Stephenson",
+    "imgURI": "https://example.com/snowcrash.jpg",
+    "author": "Neal Stephenson",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "buys": 87,
+    "created_at": "2020-06-05",
+    "key_stripe": "example_key_8"
+  }
+]
